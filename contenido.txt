@@ -1,0 +1,26 @@
+La agrimensura es la disciplina que se ocupa de la ubicación, identificación, delimitación, medición, representación y valuación del espacio y la propiedad territorial, ya sea pública o privada, urbana o rural, tanto en su superficie como en su profundidad, así como también de la ubicación y control geométrico de obras, organizando y conduciendo su registro, es decir, el catastro.
+
+
+El Ing. Agrimensor: es el profesional que estudia, proyecta, dirige e implementa los sistemas de información parcelaria. Identifica, mide y valúa la propiedad inmueble pública o privada, urbana y rural, así como las mejoras ejecutadas en su superficie o en el subsuelo, organizando su registro catastral. Participa en la resolución de problemas inherentes a los derechos sobre las cosas inmuebles. También realiza e interpreta levantamientos planimétricos, topográficos, hidrográficos y fotogramétricos con representación geométrica, gráfica y analítica.
+
+CATASTRO: Implementación de un SIG (Sistema de Información Geográfico) para administración y control del Parcelario. Realización y mantenimiento del Catastro Territorial.
+
+Plano catastral
+
+LEVANTAMIENTO MINERO: Relevamiento topográfico de detalle sobre una superficie. Generando curvas de nivel para proyecto y ejecución de obras mineras de superficie y subterránea. Realización y mantenimiento del Catastro Minero con la confección de planos.
+
+MOVIMIENTO DE SUELO: Relevamiento Topográfico y calculo  para el seguimiento de acumulación en desmonte y mineral en explotación Minera. Curvas de nivel y modelos digitales de terreno.Movimiento de Suelo
+
+HIDROLOGÍA:Relevamiento topográfico para el estudio de Escurrimiento superficial, diques, canalización, perfiles transversales de ríos, arroyos, etc.
+
+
+Capas terrestres
+
+ 
+
+GAS: Relevamientos topográficos de gasoductos con GPS.
+ELECTRICIDAD: Replanteo y seguimiento en obra de tendido eléctrico.
+
+ 
+
+LEGAL:Actuar de perito de partes en un juicio, como asesor, problemas de confusión de limites en general.

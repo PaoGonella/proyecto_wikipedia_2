@@ -1,0 +1,93 @@
+PAOLA GONELA@PAOLA MINGW64 ~
+$ git config --global user.name "PaoGonella"
+
+PAOLA GONELA@PAOLA MINGW64 ~
+$ git config --global user.email paogonella_86@hotmail.com
+
+PAOLA GONELA@PAOLA MINGW64 ~
+$ git config --list
+diff.astextplain.textconv=astextplain
+filter.lfs.clean=git-lfs clean -- %f
+filter.lfs.smudge=git-lfs smudge -- %f
+filter.lfs.process=git-lfs filter-process
+filter.lfs.required=true
+http.sslbackend=openssl
+http.sslcainfo=C:/Program Files/Git/mingw64/ssl/certs/ca-bundle.crt
+core.autocrlf=true
+core.fscache=true
+core.symlinks=false
+credential.helper=manager
+user.name=PaoGonella
+user.email=paogonella_86@hotmail.com
+
+PAOLA GONELA@PAOLA MINGW64 ~
+$ cd /e/GUARDAR TODO ACA/CURSO PROGRAMACION WEB/CLASE2/proyecto-wikipedia
+bash: cd: too many arguments
+
+PAOLA GONELA@PAOLA MINGW64 ~
+$ cd /e/GUARDAR TODO ACA/CURSO PROGRAMACION WEB/CLASE2/proyecto-wikipedia
+bash: cd: too many arguments
+
+PAOLA GONELA@PAOLA MINGW64 ~
+$ cd '/e/GUARDAR TODO ACA/CURSO PROGRAMACION WEB/CLASE2/proyecto-wikipedia'
+
+PAOLA GONELA@PAOLA MINGW64 /e/GUARDAR TODO ACA/CURSO PROGRAMACION WEB/CLASE2/proyecto-wikipedia
+$ git init
+Initialized empty Git repository in E:/GUARDAR TODO ACA/CURSO PROGRAMACION WEB/CLASE2/proyecto-wikipedia/.git/
+
+PAOLA GONELA@PAOLA MINGW64 /e/GUARDAR TODO ACA/CURSO PROGRAMACION WEB/CLASE2/proyecto-wikipedia (master)
+$ git status
+On branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        contenido.txt
+        docs/
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+PAOLA GONELA@PAOLA MINGW64 /e/GUARDAR TODO ACA/CURSO PROGRAMACION WEB/CLASE2/proyecto-wikipedia (master)
+$ git add .
+
+PAOLA GONELA@PAOLA MINGW64 /e/GUARDAR TODO ACA/CURSO PROGRAMACION WEB/CLASE2/proyecto-wikipedia (master)
+$ git status
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+        new file:   contenido.txt
+        new file:   docs/historia.html
+        new file:   docs/images/images1.jpg
+        new file:   docs/index.html.html
+
+
+PAOLA GONELA@PAOLA MINGW64 /e/GUARDAR TODO ACA/CURSO PROGRAMACION WEB/CLASE2/proyecto-wikipedia (master)
+$ git commit -m "Primer commit del proyecto wikipedia"
+[master (root-commit) 634176c] Primer commit del proyecto wikipedia
+ 4 files changed, 168 insertions(+)
+ create mode 100644 contenido.txt
+ create mode 100644 docs/historia.html
+ create mode 100644 docs/images/images1.jpg
+ create mode 100644 cs/index.html.html
+
+PAOLA GONELA@PAOLA MINGW64 /e/GUARDAR TODO ACA/CURSO PROGRAMACION WEB/CLASE2/proyecto-wikipedia (master)
+$ git remote add origin https://github.com/PaoGonella/proyecto-wikipedia.git
+
+PAOLA GONELA@PAOLA MINGW64 /e/GUARDAR TODO ACA/CURSO PROGRAMACION WEB/CLASE2/proyecto-wikipedia (master)
+$ git push -u origin master
+Enumerating objects: 8, done.
+Counting objects: 100% (8/8), done.
+Delta compression using up to 2 threads
+Compressing objects: 100% (7/7), done.
+Writing objects: 100% (8/8), 13.75 KiB | 1.06 MiB/s, done.
+Total 8 (delta 0), reused 0 (delta 0)
+To https://github.com/PaoGonella/proyecto-wikipedia.git
+ * [new branch]      master -> master
+Branch 'master' set up to track remote branch 'master' from 'origin'.
+
+PAOLA GONELA@PAOLA MINGW64 /e/GUARDAR TODO ACA/CURSO PROGRAMACION WEB/CLASE2/proyecto-wikipedia (master)
+$
